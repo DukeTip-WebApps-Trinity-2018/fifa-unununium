@@ -1,0 +1,78 @@
+.brand{
+    width: 100px;
+    height: 75px;
+}
+.colur{
+    background-color: #C13239
+}
+.caption{
+    color: #F9F50E;
+}
+.center{
+    text-align: center;
+}
+.flagSiz{
+    width: 50px;
+    height: 25px;
+}
+.siz{
+    font-size: 50px;
+    color: #F9F50E
+}
+table,th,td,tr{
+    border: 1px solid #F9F50E;
+}
+body{
+    background-color: #325EEF;
+    color: #F9F50E;
+    font-family: 'Hind', sans-serif;
+}
+.card-body,.card-title{
+    background-color: #325EEF;
+}
+td,th,tr{
+    font-size: 20px
+}
+/* .navbar{
+    position: fixed;
+    top: 0px; 
+} */
+.leftc{
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
